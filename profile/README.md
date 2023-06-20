@@ -1,4 +1,4 @@
-<h1>ZimbresAguilar</h1>
+<h1 style="text-align: center">ZimbresAguilar</h1>
 
 <h2>Projects</h2>
 <p>- Java</p>
